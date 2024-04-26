@@ -1,0 +1,9 @@
+livro:
+- nome
+- autor
+- editora
+- data lançamento
+- preço
+- resumo livro
+- descrição
+- imagem
